@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2026-03-16 11:09+0000\n"
 "Last-Translator: Romhányi-Kakucska Viktor <viktor@romhanyi.dev>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/seadve/kooha/"
@@ -161,81 +161,75 @@ msgstr "Formátum"
 msgid "Frame Rate"
 msgstr "Képkockasebesség"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "Általánosság"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "Menü megnyitása"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr "Beállítások megjelenítése"
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "Gyorsbillentyűk megjelenítése"
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr "Ablak bezárása"
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Kilépés"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr "Felvétel"
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr "Rekord be-/kikapcsolása"
 
-#: data/resources/ui/shortcuts.ui:55
-#, fuzzy
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr "Szünet be-/kikapcsolása"
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr "Felvétel törlése"
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr "Beállítások"
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr "Asztali hang be-/kikapcsolása"
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr "Mikrofon be-/kikapcsolása"
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
@@ -332,15 +326,15 @@ msgstr ""
 "Fordítók: Cserélje le a \"translator-credits\" szöveget a neveire, minden "
 "név külön sorban"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "Adományozz (Vegyél nekem egy kávét)"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "Fordítás"
 
@@ -521,6 +515,14 @@ msgstr "Normál"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "Kijelölés"
+
+#, fuzzy
+#~ msgctxt "shortcut window"
+#~ msgid "Toggle Pause"
+#~ msgstr "Szünet be-/kikapcsolása"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "Adományozz (Vegyél nekem egy kávét)"
 
 #~ msgid "Open Menu"
 #~ msgstr "Menü megnyitása"

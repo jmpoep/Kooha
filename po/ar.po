@@ -13,11 +13,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2025-09-15 08:02+0000\n"
 "Last-Translator: Ziad El-sayed <ziadelsayed1797@tutamail.com>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/seadve/kooha/ar/>"
-"\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/seadve/kooha/ar/"
+">\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -142,72 +142,67 @@ msgstr "التنسيق"
 msgid "Frame Rate"
 msgstr "معدَّل الإطارات"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "عام"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "فتح القائمة"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr "أظهِر التفضيلات"
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "أظهِر الإختصارات"
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr "إغلاق النافذة"
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "اخرُج"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr "تسجيل"
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr "زر تشغيل/إيقاف التسجيل"
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr "زر الإيقاف المؤقت"
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr "إلغاء التسجيل"
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr "الإعدادات"
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr "تشغيل/إيقاف صوت سطح المكتب"
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr "تشغيل/إيقاف المايكروفون"
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr "تشغيل/إيقاف المؤشر"
@@ -301,15 +296,15 @@ msgstr "_عن كوها"
 msgid "translator-credits"
 msgstr "علي الجشي، عمرو ياسين، أحمد النجماوي, زياد السيد"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "تبرَّع (اشترِ لي كوب قهوة)"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "جت‌هب"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "ترجم"
 
@@ -497,6 +492,13 @@ msgstr "عادي"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "المحدَّد"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Toggle Pause"
+#~ msgstr "زر الإيقاف المؤقت"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "تبرَّع (اشترِ لي كوب قهوة)"
 
 #~ msgid "Open Menu"
 #~ msgstr "افتح القائمة"

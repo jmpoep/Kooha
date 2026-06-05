@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2025-09-05 15:30+0000\n"
 "Last-Translator: Philip Goto <philip.goto@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/seadve/kooha/nl/>\n"
@@ -139,72 +139,67 @@ msgstr "Formaat"
 msgid "Frame Rate"
 msgstr "Framesnelheid"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "Algemeen"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "Menu openen"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr "Voorkeuren tonen"
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "Snel­toetsen tonen"
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr "Venster sluiten"
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Afsluiten"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr "Opname"
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr "Opnemen omschakelen"
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr "Pauzeren omschakelen"
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr "Opname annuleren"
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr "Instellingen"
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr "Bureaublad­audio omschakelen"
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr "Microfoon omschakelen"
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr "Aanwĳzer omschakelen"
@@ -298,15 +293,15 @@ msgstr "Over Kooh_a"
 msgid "translator-credits"
 msgstr "Philip Goto https://flipflop97.github.io/"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "Doneren (trakteer me op een kopje koffie)"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "Meehelpen vertalen"
 
@@ -488,6 +483,13 @@ msgstr "Normaal"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "Selectie"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Toggle Pause"
+#~ msgstr "Pauzeren omschakelen"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "Doneren (trakteer me op een kopje koffie)"
 
 #~ msgid "Open Menu"
 #~ msgstr "Menu openen"
@@ -692,8 +694,8 @@ msgstr "Selectie"
 #~ "SeaDve/Kooha/issues\">Kooha's issue page</a>."
 #~ msgstr ""
 #~ "Er ontbreekt mogelijk een GStreamer-plug-in. Als deze geïnstalleerd is en "
-#~ "Kooha werkt niet goed, meld dit probleem dan op <a href=\"https://github."
-#~ "com/SeaDve/Kooha/issues\">Kooha's issuepagina</a>."
+#~ "Kooha werkt niet goed, meld dit probleem dan op <a href=\"https://"
+#~ "github.com/SeaDve/Kooha/issues\">Kooha's issuepagina</a>."
 
 #~ msgid "Record Computer Sounds"
 #~ msgstr "Computergeluiden opnemen"

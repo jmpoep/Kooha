@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2025-10-23 13:02+0000\n"
 "Last-Translator: Haoyu Qiu <timothyqiu32@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -147,72 +147,67 @@ msgstr "格式"
 msgid "Frame Rate"
 msgstr "帧率"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "通用"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "打开菜单"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr "显示首选项"
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "显示快捷键"
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr "关闭窗口"
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "退出"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr "录制"
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr "开关录制"
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr "开关暂停"
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr "取消录制"
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr "设置"
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr "开关桌面音频"
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr "开关麦克风"
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr "开关指针"
@@ -312,15 +307,15 @@ msgstr ""
 "lumingzh &lt;lumingzh@qq.com&gt;\n"
 "Haoyu Qiu &lt;timothyqiu32@gmail.com&gt;"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "捐赠（买我一杯咖啡！）"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "翻译"
 
@@ -492,6 +487,13 @@ msgstr "一般"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "选区录制"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Toggle Pause"
+#~ msgstr "开关暂停"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "捐赠（买我一杯咖啡！）"
 
 #~ msgid "Open Menu"
 #~ msgstr "打开菜单"

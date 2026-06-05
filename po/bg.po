@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2025-08-23 08:45+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/seadve/kooha/"
@@ -141,75 +141,70 @@ msgstr "Формат"
 msgid "Frame Rate"
 msgstr "Честота на кадри"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 #, fuzzy
 msgctxt "shortcut window"
 msgid "General"
 msgstr "Общи"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "Отваряне на менюто"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Спиране на програмата"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr ""
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr ""
@@ -305,15 +300,15 @@ msgstr ""
 "Victor Keranov\n"
 "twlvnn kraft_werk <kraft_werk@tutanota.com>"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "Дарете (купете ми кафе)"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "Преведи"
 
@@ -495,6 +490,9 @@ msgstr "Нормално"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "Участък"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "Дарете (купете ми кафе)"
 
 #~ msgid "Open Menu"
 #~ msgstr "Отваряне на менюто"

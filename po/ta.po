@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2026-04-03 09:09+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/seadve/kooha/ta/>\n"
@@ -135,77 +135,72 @@ msgstr "வடிவம்"
 msgid "Frame Rate"
 msgstr "பிரேம் வீதம்"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 #, fuzzy
 msgctxt "shortcut window"
 msgid "General"
 msgstr "பொது"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "மெனுவை திறக்கவும்"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr "விருப்பங்களைக் காட்டு"
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "குறுக்குவழிகளைக் காட்டு"
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 #, fuzzy
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "வெளியேறு"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr ""
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr ""
@@ -299,15 +294,15 @@ msgstr "_கூஹா பற்றி"
 msgid "translator-credits"
 msgstr "தருண் கிருஷ்ணா.க.பா"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "நன்கொடை (எனக்கு ஒரு காபி வாங்கிக் கொடு)"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "கிட்ஹப்"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "மொழிபெயர்"
 
@@ -484,6 +479,9 @@ msgstr "இயல்பானது"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "தேர்வு"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "நன்கொடை (எனக்கு ஒரு காபி வாங்கிக் கொடு)"
 
 #~ msgid "Open Menu"
 #~ msgstr "மெனுவை திறக்கவும்"

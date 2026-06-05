@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2025-12-14 05:00+0000\n"
 "Last-Translator: Loc Huynh <huynhloc.contact@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/seadve/kooha/"
@@ -135,72 +135,67 @@ msgstr "Định dạng"
 msgid "Frame Rate"
 msgstr "Tốc độ khung hình"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "Tổng quan"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "Mở menu"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr "Hiện tùy chọn"
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "Hiện phím tắt"
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr "Đóng cửa sổ"
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Thoát"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr "Ghi"
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr "Bật/tắt ghi"
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr "Bật/tắt tạm dừng"
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr "Hủy ghi"
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr "Cài đặt"
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr "Bật/tắt âm thanh desktop"
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr "Bật/tắt microphone"
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr "Bật/tắt con trỏ"
@@ -296,15 +291,15 @@ msgstr ""
 "Vietnam Linux L10n <https://github.com/linux-l10n-vi>\n"
 "Loc Huynh <https://github.com/hthienloc>"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "Quyên góp (Buy Me a Coffee)"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "Dịch"
 
@@ -327,21 +322,18 @@ msgstr "Đảm bảo PulseAudio đã được cài đặt trên hệ thống."
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/format.rs:36
-#, rust-format
 msgid "{time} hour"
 msgid_plural "{time} hours"
 msgstr[0] "{time} giờ"
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/format.rs:43
-#, rust-format
 msgid "{time} minute"
 msgid_plural "{time} minutes"
 msgstr[0] "{time} phút"
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/format.rs:50
-#, rust-format
 msgid "{time} second"
 msgid_plural "{time} seconds"
 msgstr[0] "{time} giây"
@@ -373,7 +365,6 @@ msgstr "Không thể bắt đầu ghi"
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/recording.rs:190
-#, rust-format
 msgid "Check out {link} for help."
 msgstr "Xem {link} để được trợ giúp."
 
@@ -391,7 +382,6 @@ msgstr "Đã xảy ra lỗi khi ghi"
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/recording.rs:503
-#, rust-format
 msgid "Failed to open “{path}” for writing"
 msgstr "Không thể mở “{path}” để ghi"
 
@@ -484,3 +474,10 @@ msgstr "Bình thường"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "Vùng chọn"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Toggle Pause"
+#~ msgstr "Bật/tắt tạm dừng"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "Quyên góp (Buy Me a Coffee)"

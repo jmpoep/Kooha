@@ -18,10 +18,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2026-01-28 21:24+0000\n"
-"Last-Translator: \"André L. Alvares\" <andrluiz.alvares.alvares84@gmail.com>"
-"\n"
+"Last-Translator: \"André L. Alvares\" "
+"<andrluiz.alvares.alvares84@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "seadve/kooha/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -81,8 +81,8 @@ msgstr "🖥️ Selecione um monitor ou uma parte da tela para gravar"
 msgid ""
 "🛠️ Configurable saving location, pointer visibility, frame rate, and delay"
 msgstr ""
-"🛠️ Local de salvamento, visualização de ponteiro, taxa de atualização e "
-"tempo de resposta configuráveis"
+"🛠️ Local de salvamento, visualização de ponteiro, taxa de atualização e tempo "
+"de resposta configuráveis"
 
 #: data/io.github.seadve.Kooha.metainfo.xml.in.in:19
 msgid "🚀 Experimental hardware accelerated encoding"
@@ -150,72 +150,67 @@ msgstr "Formato"
 msgid "Frame Rate"
 msgstr "Taxa de atualização"
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr "Geral"
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr "Abrir menu"
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr "Mostrar preferências"
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr "Mostrar atalhos"
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr "Fechar janela"
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Sair"
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr "Gravando"
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr "Gravar"
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr "Pausar"
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr "Cancelar gravação"
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr "Configurações"
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr "Trocar áudio"
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr "Mudar microfone"
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr "Trocar ponteiro"
@@ -309,15 +304,15 @@ msgstr "_Sobre o Kooha"
 msgid "translator-credits"
 msgstr "Vitor Cardoso, Tiago Lucas Flach, inkhorn, john peter sa"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
-msgstr "Doe (Me Compre Um Café)"
+#: src/about.rs:44
+msgid "Donate"
+msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr "Traduzir"
 
@@ -498,6 +493,13 @@ msgstr "Normal"
 #: src/window/mod.rs:545
 msgid "Selection"
 msgstr "Seleção"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Toggle Pause"
+#~ msgstr "Pausar"
+
+#~ msgid "Donate (Buy Me a Coffee)"
+#~ msgstr "Doe (Me Compre Um Café)"
 
 #~ msgid "Open Menu"
 #~ msgstr "Abrir menu"

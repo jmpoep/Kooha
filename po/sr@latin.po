@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 12:12+0800\n"
+"POT-Creation-Date: 2026-06-05 14:41+0800\n"
 "PO-Revision-Date: 2021-10-15 15:44+0200\n"
 "Last-Translator: Dušan Simić <dusan.simic1810@gmail.com>\n"
 "Language-Team: Serbian <gnome-sr@googlegroups.com>\n"
@@ -136,72 +136,67 @@ msgstr ""
 msgid "Frame Rate"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:10
+#: data/resources/ui/shortcuts.ui:6
 msgctxt "shortcut window"
 msgid "General"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:13
+#: data/resources/ui/shortcuts.ui:9
 msgctxt "shortcut window"
 msgid "Open Menu"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:19
+#: data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Show Preferences"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:25
+#: data/resources/ui/shortcuts.ui:21
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:31
+#: data/resources/ui/shortcuts.ui:27
 msgctxt "shortcut window"
 msgid "Close Window"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:37
+#: data/resources/ui/shortcuts.ui:33
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:45
+#: data/resources/ui/shortcuts.ui:41
 msgctxt "shortcut window"
 msgid "Recording"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:48
+#: data/resources/ui/shortcuts.ui:44
 msgctxt "shortcut window"
 msgid "Toggle Record"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:55
-msgctxt "shortcut window"
-msgid "Toggle Pause"
-msgstr ""
-
-#: data/resources/ui/shortcuts.ui:61
+#: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Cancel Record"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:69
+#: data/resources/ui/shortcuts.ui:64
 msgctxt "shortcut window"
 msgid "Settings"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:72
+#: data/resources/ui/shortcuts.ui:67
 msgctxt "shortcut window"
 msgid "Toggle Desktop Audio"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:78
+#: data/resources/ui/shortcuts.ui:73
 msgctxt "shortcut window"
 msgid "Toggle Microphone"
 msgstr ""
 
-#: data/resources/ui/shortcuts.ui:84
+#: data/resources/ui/shortcuts.ui:79
 msgctxt "shortcut window"
 msgid "Toggle Pointer"
 msgstr ""
@@ -295,15 +290,15 @@ msgstr "_O Kooha"
 msgid "translator-credits"
 msgstr "  Dušan Simić <dusan.simic1810@gmail.com>"
 
-#: src/about.rs:45
-msgid "Donate (Buy Me a Coffee)"
+#: src/about.rs:44
+msgid "Donate"
 msgstr ""
 
-#: src/about.rs:48
+#: src/about.rs:45
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/about.rs:50
+#: src/about.rs:47
 msgid "Translate"
 msgstr ""
 
@@ -617,8 +612,8 @@ msgstr "Izbor"
 #~ "Make sure to check for the runtime dependencies and <a href=\"https://"
 #~ "github.com/SeaDve/Kooha#-it-doesnt-work\">It Doesn't Work page</a>."
 #~ msgstr ""
-#~ "Proverite sve zavisnosti za vreme izvršavanja <a href=\"https://github."
-#~ "com/SeaDve/Kooha#-it-doesnt-work\">It Doesn't Work stranica</a>."
+#~ "Proverite sve zavisnosti za vreme izvršavanja <a href=\"https://"
+#~ "github.com/SeaDve/Kooha#-it-doesnt-work\">It Doesn't Work stranica</a>."
 
 #~ msgid ""
 #~ "A GStreamer plugin may not be installed. If not, please report to <a "
