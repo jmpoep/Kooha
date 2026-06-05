@@ -10,13 +10,15 @@
 # Nur Ihsan <mnurihsanmutaqin66@gmail.com>, 2024.
 # Taufiq H <hosterwebplate.prh28@passinbox.com>, 2024.
 # Arif Budiman <arifpedia@gmail.com>, 2026.
+# Automatic translation add-on <noreply-addon-autotranslate@weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 14:41+0800\n"
-"PO-Revision-Date: 2026-03-09 07:09+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"PO-Revision-Date: 2026-06-05 06:45+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-"
+"autotranslate@weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/seadve/kooha/"
 "id/>\n"
 "Language: id\n"
@@ -24,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.6\n"
 
 #: data/io.github.seadve.Kooha.desktop.in.in:2
 #: data/io.github.seadve.Kooha.metainfo.xml.in.in:7 src/about.rs:24
@@ -303,8 +305,9 @@ msgid "translator-credits"
 msgstr "kredit-penerjemah"
 
 #: src/about.rs:44
+#, fuzzy
 msgid "Donate"
-msgstr ""
+msgstr "Donasi"
 
 #: src/about.rs:45
 msgid "GitHub"

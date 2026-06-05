@@ -5,13 +5,15 @@
 # Cimbora <domonkos.sebestyen@gmail.com>, 2023.
 # Rémiás Tamás <remtamas96@gmail.com>, 2025.
 # Romhányi-Kakucska Viktor <viktor@romhanyi.dev>, 2026.
+# Automatic translation add-on <noreply-addon-autotranslate@weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 14:41+0800\n"
-"PO-Revision-Date: 2026-03-16 11:09+0000\n"
-"Last-Translator: Romhányi-Kakucska Viktor <viktor@romhanyi.dev>\n"
+"PO-Revision-Date: 2026-06-05 06:45+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-"
+"autotranslate@weblate.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/seadve/kooha/"
 "hu/>\n"
 "Language: hu\n"
@@ -19,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.6\n"
 
 #: data/io.github.seadve.Kooha.desktop.in.in:2
 #: data/io.github.seadve.Kooha.metainfo.xml.in.in:7 src/about.rs:24
@@ -327,8 +329,9 @@ msgstr ""
 "név külön sorban"
 
 #: src/about.rs:44
+#, fuzzy
 msgid "Donate"
-msgstr ""
+msgstr "Támogasson"
 
 #: src/about.rs:45
 msgid "GitHub"
