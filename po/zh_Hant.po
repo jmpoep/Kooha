@@ -6,14 +6,14 @@
 # wumou <gvchd4@gmail.com>, 2025.
 # noeFly <noefly@proton.me>, 2025.
 # Automatic translation add-on <noreply-addon-autotranslate@weblate.org>, 2026.
+# taketsuki <dpps93126@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 14:41+0800\n"
-"PO-Revision-Date: 2026-06-05 06:45+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-"
-"autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-06 08:01+0000\n"
+"Last-Translator: taketsuki <dpps93126@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/seadve/kooha/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -297,7 +297,7 @@ msgstr "Kisaragi Hiu"
 
 #: src/about.rs:44
 msgid "Donate"
-msgstr ""
+msgstr "贊助"
 
 #: src/about.rs:45
 msgid "GitHub"
@@ -322,25 +322,25 @@ msgstr "尋找預設音訊裝置失敗"
 
 #: src/device.rs:27
 msgid "Make sure that you have PulseAudio installed in your system."
-msgstr ""
+msgstr "請確認您的系統有安裝PulseAudio。"
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/format.rs:36
 msgid "{time} hour"
 msgid_plural "{time} hours"
-msgstr[0] ""
+msgstr[0] "{time} 時"
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/format.rs:43
 msgid "{time} minute"
 msgid_plural "{time} minutes"
-msgstr[0] ""
+msgstr[0] "{time} 分"
 
 #. Translators: Do NOT translate the contents between '{' and '}', this is a variable name.
 #: src/format.rs:50
 msgid "{time} second"
 msgid_plural "{time} seconds"
-msgstr[0] ""
+msgstr[0] "{time} 秒"
 
 #: src/preferences_dialog.rs:76
 msgid "Failed to set recordings folder"
@@ -418,15 +418,15 @@ msgstr "離開"
 
 #: src/window/mod.rs:256
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "複製到剪貼簿"
 
 #: src/window/mod.rs:261
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "已複製到剪貼簿"
 
 #: src/window/mod.rs:267
 msgid "Show detailed error"
-msgstr ""
+msgstr "顯示詳細錯誤"
 
 #: src/window/mod.rs:289
 msgid "Help"
@@ -456,7 +456,7 @@ msgstr ""
 
 #: src/window/mod.rs:461
 msgid "A recording is in progress"
-msgstr ""
+msgstr "正在錄影中"
 
 #: src/window/mod.rs:499
 msgid "Recording"

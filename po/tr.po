@@ -4,7 +4,7 @@
 # Oğuz Ersen <oguzersen@protonmail.com>, 2021, 2022.
 # ToldYouThat <itoldyouthat@protonmail.com>, 2021.
 # Sabri Ünal <libreajans@gmail.com>, 2022, 2023, 2024.
-# Oğuz Ersen <oguz@ersen.moe>, 2022, 2024, 2025.
+# Oğuz Ersen <oguz@ersen.moe>, 2022, 2024, 2025, 2026.
 # Sabri Ünal <yakushabb@gmail.com>, 2024, 2025, 2026.
 # Automatic translation add-on <noreply-addon-autotranslate@weblate.org>, 2026.
 msgid ""
@@ -12,9 +12,8 @@ msgstr ""
 "Project-Id-Version: Kooha Ekran Kayıt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 14:41+0800\n"
-"PO-Revision-Date: 2026-06-05 06:45+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-"
-"autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-06 08:01+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/seadve/kooha/tr/>"
 "\n"
 "Language: tr\n"
@@ -301,7 +300,6 @@ msgstr ""
 "Oğuz Ersen"
 
 #: src/about.rs:44
-#, fuzzy
 msgid "Donate"
 msgstr "Bağış Yap"
 
