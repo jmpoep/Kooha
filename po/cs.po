@@ -10,14 +10,14 @@
 # Jiří Doubravský <jiri.doubravsky@gmail.com>, 2025.
 # Pavel Borecki <pavel.borecki@gmail.com>, 2026.
 # Automatic translation add-on <noreply-addon-autotranslate@weblate.org>, 2026.
+# Fjuro <fjuro@users.noreply.hosted.weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 14:41+0800\n"
-"PO-Revision-Date: 2026-06-05 06:45+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-"
-"autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-07 13:01+0000\n"
+"Last-Translator: Fjuro <fjuro@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/seadve/kooha/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -308,7 +308,6 @@ msgstr ""
 "Jonáš Loskot"
 
 #: src/about.rs:44
-#, fuzzy
 msgid "Donate"
 msgstr "Přispět"
 
