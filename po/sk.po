@@ -13,9 +13,8 @@ msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 14:41+0800\n"
-"PO-Revision-Date: 2026-06-05 06:45+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-"
-"autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-09 13:01+0000\n"
+"Last-Translator: Peter Vančo <petervanco347@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/seadve/kooha/sk/>"
 "\n"
 "Language: sk\n"
@@ -300,7 +299,6 @@ msgid "translator-credits"
 msgstr "Peter Vančo"
 
 #: src/about.rs:44
-#, fuzzy
 msgid "Donate"
 msgstr "Darovať"
 
